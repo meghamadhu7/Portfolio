@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../assets/images/logo.svg';
-import navIcon1 from '../assets/images/nav-icon1.svg';
+
 import navIcon4 from '../assets/images/nav-icon4.svg';
 import navIcon6 from '../assets/images/nav-icon6.svg';
 
@@ -27,11 +27,10 @@ function Navbar() {
       </ul>
      <span className="navbar-text">
         <div className='social-icon'>
-            <a href="https://www.linkedin.com/in/rakesh-kumar-j-aa472a284" title='LinkedIn'><img src={navIcon1} alt="Broken Image"/></a>
-            {/* <a href="https://www.facebook.com/profile.php?id=100070079115274&mibextid=ZbWKwL"><img src={navIcon2} alt="Broken Image" /></a> */}
-            <a href="https://github.com/Rakesh-2601" title='GitHub'><img src={navIcon6} alt="Broken Image"/></a>
-            {/* <a href="https://www.instagram.com/rakeshkumar___rk?igsh=ODVydXFjZjRycHpv"><img src={navIcon3} alt="Broken Image"/></a> */}
-            <a href="mailto:rakeshjagadeshwaran@gmail.com" title='Email'><img src={navIcon4} alt="Broken Image"/></a>
+           
+            <a href="https://github.com/meghamadhu7" title='GitHub'><img src={navIcon6} alt="Broken Image"/></a>
+            {/* <a href="https://www.instagram.com/__.megha_madhavan.__/"><img src={navIcon3} alt="Broken Image"/></a> */}
+            <a href="mmeghag3@gmail.com" title='Email'><img src={navIcon4} alt="Broken Image"/></a>
         </div>
         <br />
      </span>
